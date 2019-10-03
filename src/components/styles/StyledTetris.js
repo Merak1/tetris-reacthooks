@@ -20,6 +20,6 @@ max-width: 900px;
 aside {
     width:100%;
     max-width:200px;
-    
+    margin-left: 1em;
 }
 `
